@@ -1,4 +1,4 @@
-# awesome-alephium
+# awesome-alephium [![Awesome](https://awesome.re/badge.svg)](https://github.com/alephium/awesome-alephium)
 
 A curated list of resources about Alephium besides the official [alephium wiki](https://github.com/alephium/alephium/wiki)
 
