@@ -23,3 +23,4 @@ The gpu miner has lower hashrate on windows for unknown reason. Linux is recomme
 * [Script to track mined blocks](https://gist.github.com/polarker/e13a8898b4977d86c2c9d4b867341635) credit to @diomark
 * [Script to transfer all coins to a new Address](https://gist.github.com/polarker/e2a8b97eceeb359b3c73c0f5cac05680)
 * [Known hashrates of Nvidia GPUs](https://docs.google.com/spreadsheets/d/10eUjwGU-Kmw1XM1dDOKfdscOeShakSnjcBGzBT46rmc/edit?usp=sharing)
+* [Receive notifications about mining on Telegram](https://gitlab.com/sven-hash/alephium/-/tree/main/alephium-bot)
