@@ -18,6 +18,7 @@ To contribute, please file a PR. Please list items alphabetically.
 
 The gpu miner has lower hashrate on windows for unknown reason. Linux is recommended for mining.
 
+* [GoogleSheet AppScript for Alephium](https://github.com/MrGoldenpioche/Alephium-GoogleAppScripts)
 * [Get mining stats notifications on Telegram](https://gitlab.com/sven-hash/alephium/-/tree/main/alephium-bot)
 * [GPU miner guide](https://wiki.alephium.org/GPU-Miner-Guide.html)
 * [Script to auto restart the miner in case of crash](https://gist.github.com/polarker/d7f7a9903106c6184cf76fad4e695294)
