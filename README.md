@@ -26,3 +26,4 @@ The gpu miner has lower hashrate on windows for unknown reason. Linux is recomme
 * [Script to track mined blocks - PowerShell](https://github.com/mwferris/crypto-alephium-scripts/blob/60e5c31d932315cdd5015c2b2b9e6f5c2f8ce1b2/checkWalletPowershell.ps1)
 * [Script to transfer all coins to a new Address](https://gist.github.com/polarker/e2a8b97eceeb359b3c73c0f5cac05680)
 * [Known hashrates of Nvidia GPUs](https://docs.google.com/spreadsheets/d/10eUjwGU-Kmw1XM1dDOKfdscOeShakSnjcBGzBT46rmc/edit?usp=sharing)
+* [Share your Hashrate to be displayed in the above spreadsheet](https://forms.gle/cCMMZn6cRkQ4pXNx9)
