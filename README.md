@@ -13,6 +13,7 @@ To contribute, please file a PR. Please list items alphabetically.
 * [Multi-sig](https://altco.notion.site/altco/alephium-b8c069de878f4820bbd1176cbcab9cc7)
 * [Nix package](https://github.com/chloekek/alephium-nix)
 * [Systemd Services for GNU/ Linux](https://gitlab.com/sven-hash/alephium/-/tree/main/systemd/system)
+* [Telegram transactions watchers](https://t.me/alphwhalesalert)
 
 ## Mining
 
