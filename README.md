@@ -28,3 +28,9 @@ The official mining guide is [GPU miner guide](https://wiki.alephium.org/GPU-Min
 * [Script to transfer all coins to a new Address](https://gist.github.com/polarker/e2a8b97eceeb359b3c73c0f5cac05680)
 * [Known hashrates of Nvidia GPUs](https://docs.google.com/spreadsheets/d/10eUjwGU-Kmw1XM1dDOKfdscOeShakSnjcBGzBT46rmc/edit?usp=sharing)
 * [Share your Hashrate to be displayed in the above spreadsheet](https://forms.gle/cCMMZn6cRkQ4pXNx9)
+
+### Contributors
+
+<a href="https://github.com/alephium/awesome-alephium/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=alephium/awesome-alephium" />
+</a>
