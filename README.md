@@ -28,6 +28,7 @@ The official mining guide is [GPU miner guide](https://wiki.alephium.org/GPU-Min
 * [Script to track mined blocks - PowerShell](https://github.com/mwferris/crypto-alephium-scripts/blob/60e5c31d932315cdd5015c2b2b9e6f5c2f8ce1b2/checkWalletPowershell.ps1)
 * [Script to transfer all coins to a new Address](https://gist.github.com/polarker/e2a8b97eceeb359b3c73c0f5cac05680)
 * [Share your Hashrate to be displayed in the above spreadsheet](https://forms.gle/cCMMZn6cRkQ4pXNx9)
+* [Tutorial video for mining - Chinese / 中文](https://www.youtube.com/watch?v=-hLQDnth0iM)
 
 ### Contributors
 
