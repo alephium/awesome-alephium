@@ -15,6 +15,7 @@ To contribute, please file a PR. Please list items alphabetically.
 * [Systemd Services for GNU/ Linux](https://gitlab.com/sven-hash/alephium/-/tree/main/systemd/system)
 * [Telegram transactions watchers](https://t.me/alphwhalesalert)
 * [Twitter transactions watchers](https://twitter.com/AlephiumWW)
+* [Claim your address](https://gitlab.com/public-alephium/address2name)
 
 ## Mining
 
