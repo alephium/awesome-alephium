@@ -8,6 +8,7 @@ To contribute, please file a PR. Please list items alphabetically.
 
 * [AUR package](https://aur.archlinux.org/packages/alephium-wallet-bin/)
 * [Chinese doc/中文文档](https://github.com/Lbqds/alephium-docs)
+* [Claim your address](https://gitlab.com/public-alephium/address2name)
 * [Debian package](https://projects.iabsis.com/projects/alephium-pkg/wiki/How_to_install_Alephium_with_packages)
 * [Full stack on Google Cloud Platform with Kubernetes](https://github.com/liuhongchao/alephium-stack)
 * [Multi-sig](https://altco.notion.site/altco/alephium-b8c069de878f4820bbd1176cbcab9cc7)
@@ -15,7 +16,7 @@ To contribute, please file a PR. Please list items alphabetically.
 * [Systemd Services for GNU/ Linux](https://gitlab.com/sven-hash/alephium/-/tree/main/systemd/system)
 * [Telegram transactions watchers](https://t.me/alphwhalesalert)
 * [Twitter transactions watchers](https://twitter.com/AlephiumWW)
-* [Claim your address](https://gitlab.com/public-alephium/address2name)
+
 
 ## Mining
 
