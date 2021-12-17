@@ -30,6 +30,7 @@ The official mining guide is [GPU miner guide](https://wiki.alephium.org/GPU-Min
 * [Script to track mined blocks - PowerShell (updated to use with API key)](https://gist.github.com/polarker/e13a8898b4977d86c2c9d4b867341635)
 * [Script to transfer all coins to a new Address](https://gist.github.com/polarker/e2a8b97eceeb359b3c73c0f5cac05680)
 * [Tutorial video for mining - Chinese / 中文](https://www.youtube.com/watch?v=-hLQDnth0iM)
+* [Tutorial for mining on vast.ai](https://github.com/diomark/alph/blob/main/miningAlphOnVast.md)
 
 ### Contributors
 
