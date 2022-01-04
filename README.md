@@ -25,6 +25,7 @@ The official mining guide is [GPU miner guide](https://wiki.alephium.org/GPU-Min
 
 * [Get mining stats notifications on Telegram](https://gitlab.com/sven-hash/alephium/-/tree/main/alephium-bot)
 * [GoogleSheet AppScript for Alephium](https://github.com/MrGoldenpioche/Alephium-GoogleAppScripts)
+* [HiveOS custom miner for pool mining](https://gitlab.com/public-alephium/hiveos-custom)
 * [Known hashrates of Nvidia GPUs](https://docs.google.com/spreadsheets/d/10eUjwGU-Kmw1XM1dDOKfdscOeShakSnjcBGzBT46rmc/edit?usp=sharing)
 * [Share your Hashrate to be displayed in the above spreadsheet](https://forms.gle/cCMMZn6cRkQ4pXNx9)
 * [Script to auto restart the miner in case of crash](https://gist.github.com/polarker/d7f7a9903106c6184cf76fad4e695294)
