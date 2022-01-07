@@ -35,6 +35,7 @@ The official mining guide is [GPU miner guide](https://wiki.alephium.org/GPU-Min
 * [Script to transfer all coins to new Address for Windows](https://github.com/skitsur-dev/alephium-sweep-all-script/blob/main/sweep-all.ps1)
 * [Tutorial video for mining - Chinese / 中文](https://www.youtube.com/watch?v=-hLQDnth0iM)
 * [Tutorial for mining on vast.ai](https://github.com/diomark/alph/blob/main/miningAlphOnVast.md)
+* [Community mining pool Devgent Pool](https://pool.devgent.net)
 
 ### Contributors
 
