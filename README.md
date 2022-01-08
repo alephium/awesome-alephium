@@ -22,7 +22,7 @@ To contribute, please file a PR. Please list items alphabetically.
 
 The official mining guide is [GPU miner guide](https://wiki.alephium.org/GPU-Miner-Guide.html). Below are useful resources created by the community.
 
-
+* [Alephium Miner Bot - Telegram bot (Global Hashrate, IP, Mining Reward)](https://github.com/nguyenvinhlinh/alephium-miner-bot)
 * [Get mining stats notifications on Telegram](https://gitlab.com/sven-hash/alephium/-/tree/main/alephium-bot)
 * [GoogleSheet AppScript for Alephium](https://github.com/MrGoldenpioche/Alephium-GoogleAppScripts)
 * [HiveOS custom miner for pool mining](https://gitlab.com/public-alephium/hiveos-custom)
