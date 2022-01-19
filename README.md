@@ -31,7 +31,7 @@ The official mining guide is [GPU miner guide](https://wiki.alephium.org/GPU-Min
 * [Script to auto restart the miner in case of crash](https://gist.github.com/polarker/d7f7a9903106c6184cf76fad4e695294)
 * [Script to track mined blocks](https://gist.github.com/polarker/e13a8898b4977d86c2c9d4b867341635) credit to @diomark
 * [Script to track mined blocks - PowerShell (updated to use with API key)](https://gist.github.com/polarker/a21491d2d5aab1b5f2306b5f8b6f9b6e)
-* [Script to transfer all coins to a new Address ] (updated for 1.2.x, with support for API key and alternative full node address) (https://gist.github.com/diomark/727dc28a4d606e5b4c1143c0a07f2423)
+* [Script to transfer all coins to a new Address  (updated for 1.2.x, with support for API key and alternative full node address)] (https://gist.github.com/diomark/727dc28a4d606e5b4c1143c0a07f2423)
 * [Script to transfer all coins to new Address for Windows](https://github.com/skitsur-dev/alephium-sweep-all-script/blob/main/sweep-all.ps1)
 * [Tutorial video for mining - Chinese / 中文](https://www.youtube.com/watch?v=-hLQDnth0iM)
 * [Tutorial for mining on vast.ai](https://github.com/diomark/alph/blob/main/miningAlphOnVast.md)
