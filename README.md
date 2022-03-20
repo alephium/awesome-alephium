@@ -46,6 +46,7 @@ The official mining guide is [GPU miner guide](https://wiki.alephium.org/GPU-Min
 * [LHRpool](https://lhrpool.com)
 * [Enigma Pool](https://enigmapool.com)
 * [Coinhunters Pool](https://alph.coinhunters.space/)
+* [Alephium Solo Pool](https://alph.solopool.org/)
 
 
 ### Contributors
