@@ -38,7 +38,7 @@ The official mining guide is [GPU miner guide](https://wiki.alephium.org/GPU-Min
 
 ## Community pools
 
-Find a complete list of community pools on the Alephium Wiki: https://wiki.alephium.org/mining/Pool-Mining-Guide#community-pools
+Find a complete list of community pools on the [Alephium Wiki](https://wiki.alephium.org/mining/Pool-Mining-Guide#community-pools)
 
 ### Contributors
 
