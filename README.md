@@ -38,15 +38,7 @@ The official mining guide is [GPU miner guide](https://wiki.alephium.org/GPU-Min
 
 ## Community pools
 
-* [Metapool.tech](https://www.metapool.tech/dashboard)
-* [Woolypooly](https://woolypooly.com/en/coin/alph)
-* [Herominers Pool](https://alephium.herominers.com)
-* [Alephium Pool](https://alephium-pool.com)
-* [e4p1k0 ALPH Pool](https://alph.e4pool.com)
-* [LHRpool](https://lhrpool.com)
-* [Enigma Pool](https://enigmapool.com)
-* [Coinhunters Pool](https://alph.coinhunters.space/)
-
+Find a complete list of community pools on the Alephium Wiki: https://wiki.alephium.org/mining/Pool-Mining-Guide#community-pools
 
 ### Contributors
 
