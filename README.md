@@ -6,7 +6,7 @@ To contribute, please file a PR. Please list items alphabetically.
 
 ## General
 
-* [AlphTop](https://alph-top.web.app/)
+* [AlphTop](https://github.com/WilhelmKallstrom/alph-top)
 * [AUR package](https://aur.archlinux.org/packages/alephium-wallet-bin/)
 * [Chinese doc/中文文档](https://github.com/Lbqds/alephium-docs)
 * [Claim your address](https://gitlab.com/public-alephium/address2name)
