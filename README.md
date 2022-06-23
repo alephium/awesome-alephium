@@ -9,7 +9,7 @@ To contribute, please file a PR. Please list items alphabetically.
 * [AlphTop](https://github.com/WilhelmKallstrom/alph-top)
 * [AUR package](https://aur.archlinux.org/packages/alephium-wallet-bin/)
 * [Chinese doc/中文文档](https://github.com/Lbqds/alephium-docs)
-* [Claim your address](https://gitlab.com/public-alephium/address2name)
+* [Claim your address](https://github.com/sven-hash/address2name)
 * [Debian package](https://projects.iabsis.com/projects/alephium-pkg/wiki/How_to_install_Alephium_with_packages)
 * [Full stack on Google Cloud Platform with Kubernetes](https://github.com/liuhongchao/alephium-stack)
 * [Multi-sig](https://altco.notion.site/altco/alephium-b8c069de878f4820bbd1176cbcab9cc7)
