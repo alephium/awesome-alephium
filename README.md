@@ -17,6 +17,7 @@ To contribute, please file a PR. Please list items alphabetically.
 * [Systemd Services for GNU/ Linux](https://gitlab.com/sven-hash/alephium/-/tree/main/systemd/system)
 * [Telegram transactions watchers](https://t.me/alphwhalesalert)
 * [Twitter transactions watchers](https://twitter.com/AlephiumWW)
+* [alephium-rpi](https://github.com/Eeysirhc/alephium-rpi): Alephium for the Raspberry Pi maxi. 
 
 ## Mining
 
@@ -45,3 +46,4 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
 <a href="https://github.com/alephium/awesome-alephium/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=alephium/awesome-alephium" />
 </a>
+
