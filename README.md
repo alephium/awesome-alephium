@@ -19,6 +19,7 @@ To contribute, please file a PR. Please list items alphabetically.
 * [Twitter transactions watchers](https://twitter.com/AlephiumWW)
 * [alephium-rpi](https://github.com/Eeysirhc/alephium-rpi): Alephium for the Raspberry Pi maxi. 
 * [alephium-wallet](https://github.com/sahharYoucef/alephium_wallet): Alephium mobile wallet made by community members. 
+* [alephium-dart](https://github.com/sahharYoucef/alephium_dart): dart package with full Alephium api implementation and for generating and restore wallet and signing transaction. 
 
 ## Mining
 
