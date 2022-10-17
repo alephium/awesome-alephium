@@ -6,6 +6,9 @@ To contribute, please file a PR. Please list items alphabetically.
 
 ## General
 
+* [Alephium-dart](https://github.com/sahharYoucef/alephium_dart): dart package with full Alephium api implementation and for generating and restore wallet and signing transaction. 
+* [Alephium-rpi](https://github.com/Eeysirhc/alephium-rpi): Alephium for the Raspberry Pi maxi. 
+* [Alephium-wallet](https://github.com/sahharYoucef/alephium_wallet): Alephium mobile wallet made by community members. 
 * [AlphTop](https://github.com/WilhelmKallstrom/alph-top)
 * [AUR package](https://aur.archlinux.org/packages/alephium-wallet-bin/)
 * [Chinese doc/中文文档](https://github.com/Lbqds/alephium-docs)
@@ -17,9 +20,6 @@ To contribute, please file a PR. Please list items alphabetically.
 * [Systemd Services for GNU/ Linux](https://gitlab.com/sven-hash/alephium/-/tree/main/systemd/system)
 * [Telegram transactions watchers](https://t.me/alphwhalesalert)
 * [Twitter transactions watchers](https://twitter.com/AlephiumWW)
-* [alephium-rpi](https://github.com/Eeysirhc/alephium-rpi): Alephium for the Raspberry Pi maxi. 
-* [alephium-wallet](https://github.com/sahharYoucef/alephium_wallet): Alephium mobile wallet made by community members. 
-* [alephium-dart](https://github.com/sahharYoucef/alephium_dart): dart package with full Alephium api implementation and for generating and restore wallet and signing transaction. 
 
 ## Mining
 
