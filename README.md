@@ -38,6 +38,10 @@ For official ressources head to the [Alephium wiki](https://wiki.alephium.org).
 
 The official mining guide is [GPU miner guide](https://wiki.alephium.org/GPU-Miner-Guide.html). Below are useful resources created by the community.
 
+#### Community pools
+
+Find a complete list of community pools on the [Alephium Wiki](https://wiki.alephium.org/mining/Pool-Mining-Guide#community-pools)
+
 #### Mining Software 
 
 * [bzMiner](https://www.bzminer.com/)
@@ -63,10 +67,6 @@ The official mining guide is [GPU miner guide](https://wiki.alephium.org/GPU-Min
 
 * [Tutorial video for mining - Chinese / 中文](https://www.youtube.com/watch?v=-hLQDnth0iM)
 * [Tutorial for mining on vast.ai](https://github.com/diomark/alph/blob/main/miningAlphOnVast.md)
-
-#### Community pools
-
-Find a complete list of community pools on the [Alephium Wiki](https://wiki.alephium.org/mining/Pool-Mining-Guide#community-pools)
 
 #### Miscellaneous 
 
