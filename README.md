@@ -11,6 +11,7 @@ For official ressources head to the [Alephium wiki](https://wiki.alephium.org).
 * [Get mining stats notifications on Telegram](https://gitlab.com/sven-hash/alephium/-/tree/main/alephium-bot)
 * [Telegram transactions watchers](https://t.me/alphwhalesalert)
 * [Twitter transactions watchers](https://twitter.com/AlephiumWW)
+* [Tesnet Token Faucet](https://touilleio.medium.com/building-a-faucet-for-alephium-blockchain-b6f18e87eb12)
 
 ## dApps
 
