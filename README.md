@@ -76,6 +76,7 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
 
 * [Alephium-wallet](https://github.com/sahharYoucef/alephium_wallet): Alephium mobile wallet made by community members. 
 * [Multi-sig](https://altco.notion.site/altco/alephium-b8c069de878f4820bbd1176cbcab9cc7)
+* [Sezame Wallet](https://sezame.app/)
 
 #### Packages
 
