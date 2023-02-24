@@ -90,6 +90,7 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
 
 ## Others
 
+* [Chain statistics - Grafana Dashboard](https://status.notrustverify.ch/grafana/d/MggjRL1Vz/on-chain-stats?orgId=1): Dashbord monitoring Alephium Chain Data such as Number of active addresses, Number of transactions, ALPH locked
 * [Claim your address](https://github.com/sven-hash/address2name)
 * [Systemd Services for GNU/ Linux](https://gitlab.com/sven-hash/alephium/-/tree/main/systemd/system)
 * [Gramswap](https://gramswap.app/): Swap ALPH with other assets.
