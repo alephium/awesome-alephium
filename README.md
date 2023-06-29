@@ -73,7 +73,7 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
 
 ## Wallets
 
-- [Sahhar-wallet](https://github.com/sahharYoucef/alephium_wallet): Alephium mobile wallet on [Android](https://play.google.com/store/apps/details?id=com.sahhar.sahhar_wallet) made by a community member.
+- [Sahhar-wallet](https://github.com/sahharYoucef/alephium_wallet): Community- madeAlephium mobile wallet on [Android](https://play.google.com/store/apps/details?id=com.sahhar.sahhar_wallet).
 - [Multi-sig](https://altco.notion.site/altco/alephium-b8c069de878f4820bbd1176cbcab9cc7)
 - [Sezame Wallet](https://sezame.app/)
 
