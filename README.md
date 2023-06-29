@@ -84,9 +84,10 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
 
 ## Web-apps
 
-- [AlphRichList](https://alph-richlist.vercel.app/): Alph richlist is showing list up to 10000 addreses sorted by various applied filters.[Github Repository](https://github.com/lowzyyy/alph-richlist-front).
-- [AlphTop](https://alph-top.web.app/): Web App made with React for showing the top 256 addresses on the Alephium Network.[Github Repository](https://github.com/WilhelmKallstrom/alph-top).
-- [Alphvue](https://wilhelmkallstrom.github.io/alphvue/): AlphVue is a PWA for showing your ALPH wallet balance, value in FIAT, and recent transactions.[Github Repository](https://github.com/WilhelmKallstrom/alphvue).
+- [AlphRichList](https://alph-richlist.vercel.app/): Alph richlist is showing list up to 10000 addreses sorted by various applied filters. 
+ [Github Repository](https://github.com/lowzyyy/alph-richlist-front).
+- [AlphTop](https://alph-top.web.app/): Web App made with React for showing the top 256 addresses on the Alephium Network. [Github Repository](https://github.com/WilhelmKallstrom/alph-top).
+- [Alphvue](https://wilhelmkallstrom.github.io/alphvue/): AlphVue is a PWA for showing your ALPH wallet balance, value in FIAT, and recent transactions. [Github Repository](https://github.com/WilhelmKallstrom/alphvue).
 
 ## Others
 
