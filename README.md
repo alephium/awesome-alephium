@@ -15,6 +15,7 @@ For official resources head to the [Alephium wiki](https://wiki.alephium.org).
 
 ## dApps
 
+- [AYIN](https://www.ayin.app/): First DEX on Alephium
 - [Xoxo](https://xoxo.com.br/): NFT Platform
 
 ## Documentation
