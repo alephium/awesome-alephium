@@ -47,6 +47,7 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
 - [lolminer](https://lolminer.site/download/)
 - [T-rex](https://trex-miner.com/)
 - [SRBMiner](https://www.srbminer.com/download.html)
+- [Rigelminer](https://github.com/rigelminer/rigel)
 
 #### Mining OS
 
