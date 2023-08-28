@@ -17,6 +17,7 @@ For official resources head to the [Alephium wiki](https://wiki.alephium.org).
 
 - [AYIN](https://www.ayin.app/): First DEX on Alephium
 - [Xoxo](https://xoxo.com.br/): NFT Platform
+- [Token Creation Tool](https://www.alphpaca.dev/token_create)
 
 ## Documentation
 
