@@ -16,6 +16,7 @@ For official ressources head to the [Alephium wiki](https://wiki.alephium.org).
 ## dApps
 
 - [Xoxo](https://xoxo.com.br/): NFT Platform
+- [Walph](https://walph.io/): Lottery Platform
 
 ## Documentation
 
