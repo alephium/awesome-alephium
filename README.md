@@ -16,6 +16,7 @@ For official resources head to the [Alephium wiki](https://wiki.alephium.org).
 ## dApps
 
 - [AYIN](https://www.ayin.app/): First DEX on Alephium
+- [Walph](https://walph.io): Decentralized lucky base application
 - [Xoxo](https://xoxo.com.br/): NFT Platform
 
 ## Documentation
