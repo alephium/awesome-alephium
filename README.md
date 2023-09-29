@@ -17,6 +17,7 @@ For official resources head to the [Alephium wiki](https://wiki.alephium.org).
 
 - [AYIN](https://www.ayin.app/): First DEX on Alephium
 - [DEADRARE](https://deadrare.io/): First NFT Marketplace on Alephium
+- [Walph.io](https://walph.io): First on-chain decentralized Lottery on Alephium
 
 ## Documentation
 
