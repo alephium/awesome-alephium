@@ -42,6 +42,10 @@ For official resources head to the [Alephium wiki](https://wiki.alephium.org).
 
 Find a complete list of community pools on the [Alephium Wiki](https://wiki.alephium.org/mining/Pool-Mining-Guide#community-pools)
 
+#### Mining Stats
+
+- [Alephium mining stats](https://alphminingstats.com/)
+
 #### Mining Software
 
 - [bzMiner](https://www.bzminer.com/)
