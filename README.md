@@ -44,7 +44,7 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
 
 #### Mining Stats
 
-- [Alephium mining stats](https://alphminingstats.com/)
+- [Alephium mining stats](https://alphminingstats.com/) ([API](https://api-mining.notrustverify.ch/stats))
 
 #### Mining Software
 
