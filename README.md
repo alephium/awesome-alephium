@@ -15,6 +15,7 @@ For official resources head to the [Alephium wiki](https://wiki.alephium.org).
 
 ## dApps
 
+- [RUBBER](https://rubber.ayin.app/): Rub a message on the blockchain!
 - [AYIN](https://www.ayin.app/): First DEX on Alephium
 - [DEADRARE](https://deadrare.io/): First NFT Marketplace on Alephium
 - [WALPH](https://walph.io): First on-chain decentralized Lottery on Alephium
@@ -52,6 +53,7 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
 - [lolminer](https://lolminer.site/download/)
 - [T-rex](https://trex-miner.com/)
 - [SRBMiner](https://www.srbminer.com/download.html)
+- [Rigelminer](https://github.com/rigelminer/rigel)
 
 #### Mining OS
 
@@ -79,7 +81,9 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
 
 ## Wallets
 
-- [Sahhar-wallet](https://github.com/sahharYoucef/alephium_wallet): Community-made Alephium mobile wallet on [Android](https://play.google.com/store/apps/details?id=com.sahhar.sahhar_wallet).
+- [Sahhar-wallet](https://github.com/sahharYoucef/alephium_wallet): Community-made Alephium mobile wallet on -
+- [Android](https://play.google.com/store/apps/details?id=com.sahhar.sahhar_wallet).
+- [iOS](https://apps.apple.com/us/app/alephium-wallet/id6469043072)
 - [Multi-sig](https://altco.notion.site/altco/alephium-b8c069de878f4820bbd1176cbcab9cc7)
 - [Sezame Wallet](https://sezame.app/)
 
@@ -98,6 +102,7 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
 ## Others
 
 - [Chain statistics - Grafana Dashboard](https://status.notrustverify.ch/grafana/d/MggjRL1Vz/on-chain-stats?orgId=1): Dashboard monitoring Alephium Chain Data such as Number of active addresses, Number of transactions, ALPH locked
+- [Bridge Explorer](https://explorer.bridge.alephium.org/)
 - [Claim your address](https://github.com/sven-hash/address2name)
 - [Systemd Services for GNU/ Linux](https://gitlab.com/sven-hash/alephium/-/tree/main/systemd/system)
 
