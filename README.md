@@ -14,7 +14,7 @@ For official resources head to the [Alephium wiki](https://wiki.alephium.org).
 - [Tesnet Token Faucet](https://touilleio.medium.com/building-a-faucet-for-alephium-blockchain-b6f18e87eb12)
 
 ## dApps
-
+- [Alphland](https://www.alph.land): Discover the best dapps on Alephium
 - [AYIN](https://www.ayin.app/): First DEX on Alephium
 - [DEADRARE](https://deadrare.io/): First NFT Marketplace on Alephium
 - [WALPH](https://walph.io): First on-chain decentralized Lottery on Alephium
