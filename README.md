@@ -22,6 +22,7 @@ For official resources head to the [Alephium wiki](https://wiki.alephium.org).
 - [RUBBER](https://rubber.ayin.app/): Rub a message on the blockchain
 - [ALPH.bet](https://alph.bet): On-chain bets
 
+
 ## Documentation
 
 - [Chinese doc/中文文档](https://github.com/Lbqds/alephium-docs)
@@ -94,7 +95,8 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
 
 ## Web-apps
 
-- [AlphRichList](https://alph-richlist.vercel.app/): Alph richlist is showing list up to 10000 addreses sorted by various applied filters. 
+- [Token Creation Tool](https://www.alphpaca.dev/token_create)
+- AlphRichList](https://alph-richlist.vercel.app/): Alph richlist is showing list up to 10000 addreses sorted by various applied filters. 
  [Github Repository](https://github.com/lowzyyy/alph-richlist-front).
 - [AlphTop](https://alph-top.web.app/): Web App made with React for showing the top 256 addresses on the Alephium Network. [Github Repository](https://github.com/WilhelmKallstrom/alph-top).
 - [Alphvue](https://wilhelmkallstrom.github.io/alphvue/): AlphVue is a PWA for showing your ALPH wallet balance, value in FIAT, and recent transactions. [Github Repository](https://github.com/WilhelmKallstrom/alphvue).
