@@ -94,6 +94,7 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
  [Github Repository](https://github.com/lowzyyy/alph-richlist-front).
 - [AlphTop](https://alph-top.web.app/): Web App made with React for showing the top 256 addresses on the Alephium Network. [Github Repository](https://github.com/WilhelmKallstrom/alph-top).
 - [Alphvue](https://wilhelmkallstrom.github.io/alphvue/): AlphVue is a PWA for showing your ALPH wallet balance, value in FIAT, and recent transactions. [Github Repository](https://github.com/WilhelmKallstrom/alphvue).
+- [Raw Transaction Decoder](https://alephium.nioctib.tech): Decode Alephium transaction in binary format. [Github Repository](https://github.com/h0ngcha0/alephium-tx-decoder).
 
 ## Others
 
