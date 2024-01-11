@@ -15,10 +15,12 @@ For official resources head to the [Alephium wiki](https://wiki.alephium.org).
 
 ## dApps
 
-- [RUBBER](https://rubber.ayin.app/): Rub a message on the blockchain!
+- [Alphland](https://www.alph.land): Discover the best dapps on Alephium
 - [AYIN](https://www.ayin.app/): First DEX on Alephium
 - [DEADRARE](https://deadrare.io/): First NFT Marketplace on Alephium
-- [WALPH](https://walph.io): First on-chain decentralized Lottery on Alephium
+- [WALPH](https://walph.io): On-chain decentralized Lottery on Alephium
+- [RUBBER](https://rubber.ayin.app/): Rub a message on the blockchain
+- [ALPH.bet](https://alph.bet): On-chain bets
 
 ## Documentation
 
@@ -96,6 +98,7 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
  [Github Repository](https://github.com/lowzyyy/alph-richlist-front).
 - [AlphTop](https://alph-top.web.app/): Web App made with React for showing the top 256 addresses on the Alephium Network. [Github Repository](https://github.com/WilhelmKallstrom/alph-top).
 - [Alphvue](https://wilhelmkallstrom.github.io/alphvue/): AlphVue is a PWA for showing your ALPH wallet balance, value in FIAT, and recent transactions. [Github Repository](https://github.com/WilhelmKallstrom/alphvue).
+- [Raw Transaction Decoder](https://alephium.nioctib.tech): Decode Alephium transaction in binary format. [Github Repository](https://github.com/h0ngcha0/alephium-tx-decoder).
 
 ## Others
 
