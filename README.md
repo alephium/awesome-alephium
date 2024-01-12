@@ -1,9 +1,9 @@
 # awesome-alephium [![Awesome](https://awesome.re/badge.svg)](https://github.com/alephium/awesome-alephium)
 
-A curated list of community-build Alephium ressources, services and applications.
+A curated list of community-build Alephium resources, services, and applications.
 To contribute, please file a PR. **Make sure to list the items alphabetically in the appropriate section.**
 
-For official ressources head to the [Alephium wiki](https://wiki.alephium.org).
+For official resources head to the [Alephium wiki](https://wiki.alephium.org).
 
 ## Bots
 
@@ -15,8 +15,12 @@ For official ressources head to the [Alephium wiki](https://wiki.alephium.org).
 
 ## dApps
 
-- [Xoxo](https://xoxo.com.br/): NFT Platform
-- [Walph](https://walph.io/): Lottery Platform
+- [Alphland](https://www.alph.land): Discover the best dapps on Alephium
+- [AYIN](https://www.ayin.app/): First DEX on Alephium
+- [DEADRARE](https://deadrare.io/): First NFT Marketplace on Alephium
+- [WALPH](https://walph.io): On-chain decentralized Lottery on Alephium
+- [RUBBER](https://rubber.ayin.app/): Rub a message on the blockchain
+- [ALPH.bet](https://alph.bet): On-chain bets
 
 ## Documentation
 
@@ -42,12 +46,17 @@ For official ressources head to the [Alephium wiki](https://wiki.alephium.org).
 
 Find a complete list of community pools on the [Alephium Wiki](https://wiki.alephium.org/mining/Pool-Mining-Guide#community-pools)
 
+#### Mining Stats
+
+- [Alephium mining stats](https://alphminingstats.com/) ([API](https://api-mining.notrustverify.ch/stats))
+
 #### Mining Software
 
 - [bzMiner](https://www.bzminer.com/)
 - [lolminer](https://lolminer.site/download/)
 - [T-rex](https://trex-miner.com/)
 - [SRBMiner](https://www.srbminer.com/download.html)
+- [Rigelminer](https://github.com/rigelminer/rigel)
 
 #### Mining OS
 
@@ -75,27 +84,30 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
 
 ## Wallets
 
-- [Alephium-wallet](https://github.com/sahharYoucef/alephium_wallet): Alephium mobile wallet made by community members.
+- [Sahhar-wallet](https://github.com/sahharYoucef/alephium_wallet): Community-made Alephium mobile wallet on - [Android](https://play.google.com/store/apps/details?id=com.sahhar.sahhar_wallet).
 - [Multi-sig](https://altco.notion.site/altco/alephium-b8c069de878f4820bbd1176cbcab9cc7)
 - [Sezame Wallet](https://sezame.app/)
 
 #### Packages
 
-- [Alephium-dart](https://github.com/sahharYoucef/alephium_dart): dart package with full Alephium api implementation and for generating and restore wallet and signing transaction.
+- [Alephium-dart](https://github.com/sahharYoucef/alephium_dart): dart package with full Alephium API implementation and for generating and restoring wallet and signing transactions.
 - [AUR package](https://aur.archlinux.org/packages/alephium-wallet-bin/)
 
 ## Web-apps
 
-- [AlphRichList](https://github.com/lowzyyy/alph-richlist-front): Alph richlist is showing list up to 10000 addreses sorted by various applied filters.
-- [AlphTop](https://github.com/WilhelmKallstrom/alph-top): Web App made with React for showing the top 256 addresses on the Alephium Network.
-- [Alphvue](https://github.com/WilhelmKallstrom/alphvue): AlphVue is a PWA for showing your ALPH wallet balance, value in FIAT, and recent transactions.
+- [Token Creation Tool](https://www.alphpaca.dev/token_create)
+- AlphRichList](https://alph-richlist.vercel.app/): Alph richlist is showing list up to 10000 addreses sorted by various applied filters. 
+ [Github Repository](https://github.com/lowzyyy/alph-richlist-front).
+- [AlphTop](https://alph-top.web.app/): Web App made with React for showing the top 256 addresses on the Alephium Network. [Github Repository](https://github.com/WilhelmKallstrom/alph-top).
+- [Alphvue](https://wilhelmkallstrom.github.io/alphvue/): AlphVue is a PWA for showing your ALPH wallet balance, value in FIAT, and recent transactions. [Github Repository](https://github.com/WilhelmKallstrom/alphvue).
+- [Raw Transaction Decoder](https://alephium.nioctib.tech): Decode Alephium transaction in binary format. [Github Repository](https://github.com/h0ngcha0/alephium-tx-decoder).
 
 ## Others
 
-- [Chain statistics - Grafana Dashboard](https://status.notrustverify.ch/grafana/d/MggjRL1Vz/on-chain-stats?orgId=1): Dashbord monitoring Alephium Chain Data such as Number of active addresses, Number of transactions, ALPH locked
+- [Chain statistics - Grafana Dashboard](https://status.notrustverify.ch/grafana/d/MggjRL1Vz/on-chain-stats?orgId=1): Dashboard monitoring Alephium Chain Data such as Number of active addresses, Number of transactions, ALPH locked
+- [Bridge Explorer](https://explorer.bridge.alephium.org/)
 - [Claim your address](https://github.com/sven-hash/address2name)
 - [Systemd Services for GNU/ Linux](https://gitlab.com/sven-hash/alephium/-/tree/main/systemd/system)
-- [Gramswap](https://gramswap.app/): Swap ALPH with other assets.
 
 ## Contributors
 
