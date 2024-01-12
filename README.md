@@ -91,7 +91,7 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
 #### Packages
 
 - [Alephium-dart](https://github.com/sahharYoucef/alephium_dart): dart package with full Alephium API implementation and for generating and restoring wallet and signing transactions.
-- [AUR package](https://aur.archlinux.org/packages/alephium-wallet-bin/)
+- [AUR package](https://lists.archlinux.org/archives/list/aur-requests@lists.archlinux.org/thread/WA4ATH2UYRYEEXO6ZUGIV4CL7YNSFLZQ/)
 
 ## Web-apps
 
