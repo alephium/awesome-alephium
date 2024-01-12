@@ -22,7 +22,6 @@ For official resources head to the [Alephium wiki](https://wiki.alephium.org).
 - [RUBBER](https://rubber.ayin.app/): Rub a message on the blockchain
 - [ALPH.bet](https://alph.bet): On-chain bets
 
-
 ## Documentation
 
 - [Chinese doc/中文文档](https://github.com/Lbqds/alephium-docs)
@@ -39,6 +38,7 @@ For official resources head to the [Alephium wiki](https://wiki.alephium.org).
 #### Tutorials
 
 - [Alephium-rpi](https://github.com/Eeysirhc/alephium-rpi): Alephium for the Raspberry Pi maxi.
+- [Host your Alephium node via Flux](https://medium.com/@Oheka/tutorial-host-your-alephium-node-via-flux-2134def9b7d0): Host your Alephium's full-node via the Flux Marketplace.
 
 ## Mining
 
