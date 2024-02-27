@@ -16,6 +16,7 @@ For official resources head to the [Alephium wiki](https://wiki.alephium.org).
 ## dApps
 
 - [Alphland](https://www.alph.land): Discover the best dapps on Alephium
+- [Alph.Pro](https://alph.pro): Portfolio Management & DeFi discovery
 - [AYIN](https://www.ayin.app/): First DEX on Alephium
 - [DEADRARE](https://deadrare.io/): First NFT Marketplace on Alephium
 - [WALPH](https://walph.io): On-chain decentralized Lottery on Alephium
