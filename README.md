@@ -112,6 +112,7 @@ Find a complete list of community pools on the [Alephium Wiki](https://wiki.alep
 - [Bridge Explorer](https://explorer.bridge.alephium.org/)
 - [Claim your address](https://github.com/sven-hash/address2name)
 - [Systemd Services for GNU/ Linux](https://gitlab.com/sven-hash/alephium/-/tree/main/systemd/system)
+- [Invariant](https://github.com/invariant-labs/alephium-hackathon) CLAMM DEX source code
 
 ## Contributors
 
